@@ -13,24 +13,24 @@ interaction.
 
 ### 1. **Use Case Diagram**   
 
-![image]()
+![image](https://github.com/shahidulalam447/UML_Project/blob/main/useCaseDiagram.png)
 
 ### 2. **Class Diagram**
 
-![image]()
+![image](https://github.com/shahidulalam447/UML_Project/blob/main/classDiagram.png)
 
 ### 3. **Sequence Diagram**
 
-![image]()
+![image](https://github.com/shahidulalam447/UML_Project/blob/main/sequenceDiagram.png)
 
 ### 4. **Activity Diagram**
 
-![image]()
+![image](https://github.com/shahidulalam447/UML_Project/blob/main/activityDiagram.png)
 
 ### 5. **Statechart Diagram**
 
-![image]()
+![image](https://github.com/shahidulalam447/UML_Project/blob/main/stateChartDiagram.png)
 
 ### 6. **CRC_Card Diagram**
 
-![image]()
+![image](https://github.com/shahidulalam447/UML_Project/blob/main/CRC_Diagram.png)
